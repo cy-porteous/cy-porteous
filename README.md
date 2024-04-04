@@ -4,4 +4,5 @@ I'm a passionate web developer who recently graduated from a Le Wagon London's i
 - 🌱 I'm currently sharpening my skills in JavaScript, HTML, CSS, and exploring coding challenges on Codewars. 
 - 🚀 I believe in the power of continuous learning and strive to be a better version of my self every day.
 - 📫 Please reach me: email or Linkedin.
+- 🔷 Ruby 🛤️ Rails 🟨 Javascript 🔤 HTML 🎨 CSS 🅱️ Bootstrap 🆚📝 VS Code 
 
